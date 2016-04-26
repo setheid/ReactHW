@@ -1,6 +1,5 @@
 var React = require('react');
 var expect = require('chai').expect;
-// import { shallow, mount, render } from 'enzyme';
 var enzyme = require('enzyme');
 var shallow = enzyme.shallow;
 var mount = enzyme.mount;
