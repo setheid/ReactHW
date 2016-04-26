@@ -32,7 +32,7 @@ var App = React.createClass({
   },
   render: function() {
     return (
-      <main>
+      <main className="reactApp">
         <h1>Coffee Notes</h1>
         <LoginForm data={this.props.data} login={this.login} loggedin={this.state.loggedin} />
         <OverView

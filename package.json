@@ -1,0 +1,38 @@
+{
+  "name": "reactHW",
+  "version": "1.0.0",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setheid/ReactHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setheid/ReactHW/issues"
+  },
+  "homepage": "https://github.com/setheid/ReactHW#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-airbnb": "^1.1.1",
+    "babel-register": "^6.7.2",
+    "chai": "^3.5.0",
+    "enzyme": "^2.2.0",
+    "jsdom": "^8.4.0",
+    "mocha": "^2.4.5",
+    "react": "^15.0.1",
+    "react-addons-test-utils": "^15.0.1"
+  }
+}
